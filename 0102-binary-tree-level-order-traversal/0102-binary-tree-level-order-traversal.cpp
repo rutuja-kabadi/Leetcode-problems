@@ -11,8 +11,9 @@
  */
 class Solution {
 public:
-    void lvlorder(TreeNode* root, vector<vector<int>>& a){
-        if(root==NULL) return;
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        vector<vector<int>> a;
+        if(root==NULL) return {};
         queue<TreeNode*> q;
         q.push(root);
         while(!q.empty()){
@@ -27,10 +28,6 @@ public:
             }
             a.push_back(level);
         }
-    }
-    vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> a;
-        lvlorder(root, a);
         return a;
     }
 };
