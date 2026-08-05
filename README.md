@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
