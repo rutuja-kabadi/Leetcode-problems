@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
@@ -77,5 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
