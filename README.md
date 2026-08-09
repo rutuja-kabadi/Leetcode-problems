@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [1046-last-stone-weight](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
