@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0189-rotate-array) |
 ## Newton's Method
 |  |
 | ------- |
