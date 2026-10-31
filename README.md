@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0496-next-greater-element-i) |
