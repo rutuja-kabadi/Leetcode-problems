@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1046-last-stone-weight](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/1046-last-stone-weight) |
+| [1480-running-sum-of-1d-array](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
