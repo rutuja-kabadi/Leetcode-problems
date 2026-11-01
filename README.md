@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1046-last-stone-weight](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/1046-last-stone-weight) |
 ## Two Pointers
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
