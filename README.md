@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0326-power-of-three) |
 ## Newton's Method
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/rutuja-kabadi/Leetcode-problems/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
